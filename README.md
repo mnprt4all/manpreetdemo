@@ -1,4 +1,5 @@
 # manpreetdemo
 this is my first git repository
 <br>
-author - manpreet
+author - manpreet singh
+
